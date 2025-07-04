@@ -9,3 +9,5 @@ scipy
 xgboost
 lightgbm
 catboost
+tensorflow
+keras
