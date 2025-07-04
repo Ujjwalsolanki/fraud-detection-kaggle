@@ -209,5 +209,7 @@ __marimo__/
 
 # Project specific ignores
 artifacts/
+processed_data/
+notebooks/
 data/
 test.ipynb
